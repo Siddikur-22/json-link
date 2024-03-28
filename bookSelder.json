@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "bookName": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "image": "https://i.ibb.co/FqcD55w/5.png",
+        "review": "In F. Scott Fitzgerald's ..the glittering allure of the Jazz Age pulses through every page. Set against the backdrop of 1920s America, the novel unfurls a tale of love, betrayal, and the pursuit of the American Dream. Jay Gatsby, the enigmatic protagonist, embodies both the splendor and the emptiness of his era, his lavish parties masking a deeper longing. Through Nick Carraway's eyes, readers are transported into a world of opulence and excess, where wealth and status reign supreme. Yet, beneath the shimmering facade lies a narrative of disillusionment and tragedy, as characters grapple with the hollowness of their aspirations. With poetic prose and haunting imagery, Fitzgerald crafts a timeless portrait of a society intoxicated by its own illusions.",
+        "totalPages": 180,
+        "rating": 4.5,
+        "category": "Fiction",
+        "tags": ["Classic", "Romance", "Tragedy"],
+        "publisher": "Charles Scribner's Sons",
+        "yearOfPublishing": 1925
+    },
+    {
+        "id": 2,
+        "bookName": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "image": "https://i.ibb.co/D9rjFLZ/6.png",
+        "review": "In F. Scott Fitzgerald's ..the glittering allure of the Jazz Age pulses through every page. Set against the backdrop of 1920s America, the novel unfurls a tale of love, betrayal, and the pursuit of the American Dream. Jay Gatsby, the enigmatic protagonist, embodies both the splendor and the emptiness of his era, his lavish parties masking a deeper longing. Through Nick Carraway's eyes, readers are transported into a world of opulence and excess, where wealth and status reign supreme. Yet, beneath the shimmering facade lies a narrative of disillusionment and tragedy, as characters grapple with the hollowness of their aspirations. With poetic prose and haunting imagery, Fitzgerald crafts a timeless portrait of a society intoxicated by its own illusions.",
+        "totalPages": 281,
+        "rating": 4.8,
+        "category": "Fiction",
+        "tags": ["Social Justice"],
+        "publisher": "J. B. Lippincott & Co.",
+        "yearOfPublishing": 1960
+    },
+    {
+        "id": 3,
+        "bookName": "1984",
+        "author": "George Orwell",
+        "image": "https://i.ibb.co/BTFVRZd/7.png",
+        "review": "In F. Scott Fitzgerald's ..the glittering allure of the Jazz Age pulses through every page. Set against the backdrop of 1920s America, the novel unfurls a tale of love, betrayal, and the pursuit of the American Dream. Jay Gatsby, the enigmatic protagonist, embodies both the splendor and the emptiness of his era, his lavish parties masking a deeper longing. Through Nick Carraway's eyes, readers are transported into a world of opulence and excess, where wealth and status reign supreme. Yet, beneath the shimmering facade lies a narrative of disillusionment and tragedy, as characters grapple with the hollowness of their aspirations. With poetic prose and haunting imagery, Fitzgerald crafts a timeless portrait of a society intoxicated by its own illusions.",
+        "totalPages": 328,
+        "rating": 4.6,
+        "category": "Fiction",
+        "tags": ["Dystopian", "Political"],
+        "publisher": "Secker & Warburg",
+        "yearOfPublishing": 1949
+    },
+    {
+        "id": 4,
+        "bookName": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "image": "https://i.ibb.co/CwKZhs2/8.png",
+        "review": "In F. Scott Fitzgerald's ..the glittering allure of the Jazz Age pulses through every page. Set against the backdrop of 1920s America, the novel unfurls a tale of love, betrayal, and the pursuit of the American Dream. Jay Gatsby, the enigmatic protagonist, embodies both the splendor and the emptiness of his era, his lavish parties masking a deeper longing. Through Nick Carraway's eyes, readers are transported into a world of opulence and excess, where wealth and status reign supreme. Yet, beneath the shimmering facade lies a narrative of disillusionment and tragedy, as characters grapple with the hollowness of their aspirations. With poetic prose and haunting imagery, Fitzgerald crafts a timeless portrait of a society intoxicated by its own illusions.",
+        "totalPages": 277,
+        "rating": 4.4,
+        "category": "Fiction",
+        "tags": ["Coming of Age", "Alienation"],
+        "publisher": "Little, Brown and Company",
+        "yearOfPublishing": 1951
+    },
+    {
+        "id": 5,
+        "bookName": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "image": "https://i.ibb.co/5MNb7s7/9.png",
+        "review": "In F. Scott Fitzgerald's ..the glittering allure of the Jazz Age pulses through every page. Set against the backdrop of 1920s America, the novel unfurls a tale of love, betrayal, and the pursuit of the American Dream. Jay Gatsby, the enigmatic protagonist, embodies both the splendor and the emptiness of his era, his lavish parties masking a deeper longing. Through Nick Carraway's eyes, readers are transported into a world of opulence and excess, where wealth and status reign supreme. Yet, beneath the shimmering facade lies a narrative of disillusionment and tragedy, as characters grapple with the hollowness of their aspirations. With poetic prose and haunting imagery, Fitzgerald crafts a timeless portrait of a society intoxicated by its own illusions.",
+        "totalPages": 279,
+        "rating": 4.7,
+        "category": "Fiction",
+        "tags": ["Romance", "Classic"],
+        "publisher": "T. Egerton, Whitehall",
+        "yearOfPublishing": 1813
+    },
+    {
+        "id": 6,
+        "bookName": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "image": "https://i.ibb.co/kKk9tj4/1.png",
+        "review": "In F. Scott Fitzgerald's ..the glittering allure of the Jazz Age pulses through every page. Set against the backdrop of 1920s America, the novel unfurls a tale of love, betrayal, and the pursuit of the American Dream. Jay Gatsby, the enigmatic protagonist, embodies both the splendor and the emptiness of his era, his lavish parties masking a deeper longing. Through Nick Carraway's eyes, readers are transported into a world of opulence and excess, where wealth and status reign supreme. Yet, beneath the shimmering facade lies a narrative of disillusionment and tragedy, as characters grapple with the hollowness of their aspirations. With poetic prose and haunting imagery, Fitzgerald crafts a timeless portrait of a society intoxicated by its own illusions.",
+        "totalPages": 310,
+        "rating": 4.9,
+        "category": "Fantasy",
+        "tags": ["Adventure", "Epic"],
+        "publisher": "George Allen & Unwin",
+        "yearOfPublishing": 1937
+    },
+    {
+        "id": 7,
+        "bookName": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "image": "https://i.ibb.co/1m0kkV1/2.png",
+        "review": "In F. Scott Fitzgerald's ..the glittering allure of the Jazz Age pulses through every page. Set against the backdrop of 1920s America, the novel unfurls a tale of love, betrayal, and the pursuit of the American Dream. Jay Gatsby, the enigmatic protagonist, embodies both the splendor and the emptiness of his era, his lavish parties masking a deeper longing. Through Nick Carraway's eyes, readers are transported into a world of opulence and excess, where wealth and status reign supreme. Yet, beneath the shimmering facade lies a narrative of disillusionment and tragedy, as characters grapple with the hollowness of their aspirations. With poetic prose and haunting imagery, Fitzgerald crafts a timeless portrait of a society intoxicated by its own illusions.",
+        "totalPages": 1178,
+        "rating": 4.9,
+        "category": "Fantasy",
+        "tags": ["Epic", "Adventure"],
+        "publisher": "George Allen & Unwin",
+        "yearOfPublishing": 1954
+    },
+    {
+        "id": 8,
+        "bookName": "The Alchemist",
+        "author": "Paulo Coelho",
+        "image": "https://i.ibb.co/LdCkcWY/3.png",
+        "review": "In F. Scott Fitzgerald's ..the glittering allure of the Jazz Age pulses through every page. Set against the backdrop of 1920s America, the novel unfurls a tale of love, betrayal, and the pursuit of the American Dream. Jay Gatsby, the enigmatic protagonist, embodies both the splendor and the emptiness of his era, his lavish parties masking a deeper longing. Through Nick Carraway's eyes, readers are transported into a world of opulence and excess, where wealth and status reign supreme. Yet, beneath the shimmering facade lies a narrative of disillusionment and tragedy, as characters grapple with the hollowness of their aspirations. With poetic prose and haunting imagery, Fitzgerald crafts a timeless portrait of a society intoxicated by its own illusions.",
+        "totalPages": 197,
+        "rating": 4.7,
+        "category": "Fiction",
+        "tags": ["Philosophical", "Adventure"],
+        "publisher": "HarperCollins",
+        "yearOfPublishing": 1988
+    },
+    {
+        "id": 9,
+        "bookName": "Harry Potter and  Philosopher",
+        "author": "J.K. Rowling",
+        "image": "https://i.ibb.co/9ngwT70/4.png",
+        "review": "In F. Scott Fitzgerald's ..the glittering allure of the Jazz Age pulses through every page. Set against the backdrop of 1920s America, the novel unfurls a tale of love, betrayal, and the pursuit of the American Dream. Jay Gatsby, the enigmatic protagonist, embodies both the splendor and the emptiness of his era, his lavish parties masking a deeper longing. Through Nick Carraway's eyes, readers are transported into a world of opulence and excess, where wealth and status reign supreme. Yet, beneath the shimmering facade lies a narrative of disillusionment and tragedy, as characters grapple with the hollowness of their aspirations. With poetic prose and haunting imagery, Fitzgerald crafts a timeless portrait of a society intoxicated by its own illusions.",
+        "totalPages": 309,
+        "rating": 4.8,
+        "category": "Fantasy",
+        "tags": ["Magic", "Adventure"],
+        "publisher": "Bloomsbury",
+        "yearOfPublishing": 1997
+    }
+]
+
+
+
+
+
+
+
+
+
